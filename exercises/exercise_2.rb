@@ -12,3 +12,4 @@ puts "----------"
 @store1.name = "Markham"
 
 puts @store1.name
+puts Store.count
